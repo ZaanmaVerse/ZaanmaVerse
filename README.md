@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-# 👋 Hi there, I'm Zaidan Mahfudz Azzam Saidi
+# I'm Zaidan Mahfudz Azzam Saidi
 
 🎓 I'm an Information Technology student passionate about **Cybersecurity**, **Software Engineering**, and continuous learning.  
 🔒 I enjoy exploring tools like **Wazuh**, **Suricata**, and **ELK Stack**, while building hands-on security projects.  
