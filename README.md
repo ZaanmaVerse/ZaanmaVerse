@@ -54,10 +54,10 @@
   <a href="https://linkedin.com/in/zaidanmahfudz">
     <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:zaidanmahfudz@gmail.com">
+  <a href="mailto:zaidanmahfudz26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/zaidanmahfudz">
+  <a href="https://zaanmhfdz.vercel.app">
     <img src="https://img.shields.io/badge/GitHub-ZaidanMahfudz-black?style=for-the-badge&logo=github" />
   </a>
 </p>
