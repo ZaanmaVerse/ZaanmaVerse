@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaidan Mahfudz</h1>
-<h3 align="center">🚀 AI Developer & 🛡️ Cybersecurity Enthusiast</h3>
+<h3 align="center">🛡️ Cybersecurity Enthusiast  & 🚀 AI Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI-powered+Security+Tools;Automating+Threat+Detection;Learning+Cyber+Day+by+Day&center=true&width=500&height=30">
@@ -55,11 +55,8 @@
   <a href="https://linkedin.com/in/zaidanmahfudz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:zaidanmahfudz@gmail.com">
+  <a href="mailto:zaidanmahfudz26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/zaidanmahfudz">
-    <img src="https://img.shields.io/badge/GitHub-ZaidanMahfudz-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
