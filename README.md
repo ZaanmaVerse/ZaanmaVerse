@@ -53,7 +53,7 @@
   <a href="mailto:zaidanmahfudz26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/zaidanmahfudz">
+  <a href="https://linkedin.com/zaidanmahfudz">
     <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/in/zaanmhfdz">
