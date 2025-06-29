@@ -59,7 +59,7 @@
   <a href="https://instagram.com/zaanmhfdz">
     <img src="https://img.shields.io/badge/Instagram-zaanmhfdz-gold?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://zaanmhfdz.vercel.app">
+  <a href="https://zaidanmhfdz.vercel.app">
     <img src="https://img.shields.io/badge/MyWebsite-zaanmhfdz-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
