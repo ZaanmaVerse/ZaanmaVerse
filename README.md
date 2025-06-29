@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaanmaVerse&show_icons=true&theme=radical&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaanmaVerse&theme=great-gatsby" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaanmaVerse&theme=radical" height="180"/>
 </div>
 
 <div align="center">
