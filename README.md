@@ -53,10 +53,10 @@
   <a href="mailto:zaidanmahfudz26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/zaidanmahfudz">
+  <a href="https://linkedin.com/in/zaidanmahfudz">
     <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/in/zaanmhfdz">
+  <a href="https://instagram.com/zaanmhfdz">
     <img src="https://img.shields.io/badge/Instagram-zaanmhfdz-gold?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://zaanmhfdz.vercel.app">
