@@ -54,13 +54,13 @@
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/zaidanmahfudz">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/in/zaanmhfdz">
-    <img src="https://img.shields.io/badge/Instagram-Zaidan%20Mahfudz-purple?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-zaanmhfdz-gold?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://zaanmhfdz.vercel.app">
-    <img src="https://img.shields.io/badge/MyWebsite-ZaidanMahfudz-black?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/MyWebsite-zaanmhfdz-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
