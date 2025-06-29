@@ -43,6 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaanmaVerse&layout=compact&theme=radical&langs_count=8" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZaanmaVerse" alt="GitHub Streak" /></a>
 </div>
 
 ---
