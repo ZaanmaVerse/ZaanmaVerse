@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=45&lines=Building+AI-powered+Security+Solutions;Creating+Smart+Phishing+Defenses;Exploring+Cyber+Threat+Intelligence;Leveling+Up+Every+Day" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZaanmaVerse" alt="GitHub Streak" /></a>
 ---
 
 ## 🧠 About Me
