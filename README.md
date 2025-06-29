@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 IT Student (6th semester) specializing in **AI & Cybersecurity**
+- 🎓 IT Student (6th semester) specializing in **Cybersecurity & AI**
 - 🧪 Passionate about turning data into security insights using ML
 - 🔐 Love building tools for **phishing detection**, **SIEM setup**, and **threat simulation**
-- 🌱 Currently learning advanced **ML-based threat detection** and **AI Chatbot Integration**
+- 🌱 Currently learning advanced **ML-based threat detection**
 
 ---
 
@@ -29,17 +29,16 @@
 
 | Project | Description |
 |--------|-------------|
-| 🛡️ [**Phishing Detector**](https://github.com/zaidanmahfudz/phishing-detector) | ML-powered phishing detection using URL & email content |
-| 🤖 [**UMKM AI Chatbot**](https://github.com/zaidanmahfudz/umkm-chatbot) | Smart chatbot with voice support for local business |
-| 🔍 [**SIEM Lab**](https://github.com/zaidanmahfudz/siem-lab) | Wazuh + Suricata + ELK simulated threat detection setup |
+| 🛡️ [**Phishing Detector**](https://github.com/ZaanmaVerse/phishing-detector) | ML-powered phishing detection using URL & email content |
+| 🔍 [**SIEM Lab**](https://github.com/ZaanmaVerse/siem-lab) | Wazuh + Suricata + threat detection setup |
 
 ---
 
 ## 📊 Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidanmahfudz&show_icons=true&theme=radical&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanmahfudz&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaanmaVerse&show_icons=true&theme=radical&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaanmaVerse&theme=radical" height="180"/>
 </div>
 
 <div align="center">
@@ -58,10 +57,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/in/zaanmhfdz">
-    <img src="https://img.shields.io/badge/Instagram-Zaidan%20Mahfudz-pink?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Zaidan%20Mahfudz-purple?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://zaanmhfdz.vercel.app">
-    <img src="https://img.shields.io/badge/MyWebsite-ZaidanMahfudz-grey?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/MyWebsite-ZaidanMahfudz-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
