@@ -1,67 +1,69 @@
-<h1 align="center">Hi 👋, I'm Zaidan Mahfudz</h1>
-<h3 align="center">🛡️ Cybersecurity Enthusiast  & 🚀 AI Developer</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff">Zaidan Mahfudz</span></h1>
+<h3 align="center">🛡️ Cybersecurity Enthusiast & 💻 AI Engineer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI-powered+Security+Tools;Automating+Threat+Detection;Learning+Cyber+Day+by+Day&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=45&lines=Building+AI-powered+Security+Solutions;Creating+Smart+Phishing+Defenses;Exploring+Cyber+Threat+Intelligence;Leveling+Up+Every+Day" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 6th semester IT Student with strong focus on **Cybersecurity & Artificial Intelligence**  
-- 💻 Currently working on: `Phishing Detection`, `SIEM Simulation`, and `AI Chatbots for UMKM`
-- ✍️ I share my growth on Instagram & GitHub — always building, always learning!
-- 🔭 Exploring ML-powered security tools using Python & threat intel platforms like MISP
-
----
-
-### 🛠️ Tech Stack
-
-```bash
-💻 Languages: Python | JavaScript | Bash  
-⚙️ Tools: Wazuh | Suricata | Kali Linux | ELK Stack  
-🧠 AI/ML: scikit-learn | OpenAI API | pandas | NLTK  
-🕸️ Web: HTML | Tailwind | Flask | PHP
-```
+- 🎓 IT Student (6th semester) specializing in **AI & Cybersecurity**
+- 🧪 Passionate about turning data into security insights using ML
+- 🔐 Love building tools for **phishing detection**, **SIEM setup**, and **threat simulation**
+- 🌱 Currently learning advanced **ML-based threat detection** and **AI Chatbot Integration**
 
 ---
 
-### 📊 GitHub Stats
+## ⚒️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,bash,html,css,tailwind,flask,nodejs,php" /><br><br>
+  <img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,docker" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛡️ [**Phishing Detector**](https://github.com/zaidanmahfudz/phishing-detector) | ML-powered phishing detection using URL & email content |
+| 🤖 [**UMKM AI Chatbot**](https://github.com/zaidanmahfudz/umkm-chatbot) | Smart chatbot with voice support for local business |
+| 🔍 [**SIEM Lab**](https://github.com/zaidanmahfudz/siem-lab) | Wazuh + Suricata + ELK simulated threat detection setup |
+
+---
+
+## 📊 Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidanmahfudz&show_icons=true&theme=radical&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanmahfudz&theme=radical" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanmahfudz&layout=compact&theme=radical&langs_count=8" height="150"/>
+</div>
+
+---
+
+## 🌐 Let’s Connect!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidanmahfudz&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanmahfudz&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 📂 Notable Projects
-
-- 🛡️ [Phishing Detector](https://github.com/zaidanmahfudz/phishing-detector)  
-  `ML-powered phishing detection system using URL & email analysis`
-
-- 🧠 [UMKM AI Chatbot](https://github.com/zaidanmahfudz/umkm-chatbot)  
-  `Simple chatbot for small business with TTS and product promotion`
-
-- 🚨 [SIEM Simulation Lab](https://github.com/zaidanmahfudz/siem-lab)  
-  `Multi-VM setup using Wazuh + Suricata + ELK for threat detection`
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/zaidanmahfudz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/zaidanmahfudz">
+    <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:zaidanmahfudz26@gmail.com">
+  <a href="mailto:zaidanmahfudz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://github.com/zaidanmahfudz">
+    <img src="https://img.shields.io/badge/GitHub-ZaidanMahfudz-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidanmahfudz&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zaidanmahfudz&label=Profile+Views&color=00ffff&style=flat" />
 </p>
