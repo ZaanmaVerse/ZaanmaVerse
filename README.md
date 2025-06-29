@@ -30,7 +30,7 @@
 | Project | Description |
 |--------|-------------|
 | 🛡️ [**Phishing Detector**](https://github.com/ZaanmaVerse/phishing-detector) | ML-powered phishing detection using URL & email content |
-| 🔍 [**SIEM Lab**](https://github.com/ZaanmaVerse/siem-lab) | Wazuh + Suricata + threat detection setup |
+| 🔍 [**SIEM Lab**](https://github.com/ZaanmaVerse/wazuh-setup-lab) | Wazuh + Suricata + threat detection setup |
 
 ---
 
