@@ -1,52 +1,70 @@
-# Hello there 👋
+<h1 align="center">Hi 👋, I'm Zaidan Mahfudz</h1>
+<h3 align="center">🚀 AI Developer & 🛡️ Cybersecurity Enthusiast</h3>
 
-🎓 I'm an Information Technology student passionate about **Cybersecurity**, **Software Engineering**, and continuous learning.  
-🔒 I enjoy exploring tools like **Wazuh**, **Suricata**, and **ELK Stack**, while building hands-on security projects.  
-📚 Currently learning to become a **Security Analyst** while strengthening my foundations in **software development**.
-
----
-
-### 🛠️ Projects I'm Working On
-- 🚨 SIEM Integration using **Wazuh + Suricata + ELK Stack**
-- 🧠 AI-based **Phishing Detection System** (Email & URL)
-- 💬 Chatbot for Product Recommendation using TTS + Location
-- 🌐 Personal Portfolio Website (Dark Mode + AOS Animation)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI-powered+Security+Tools;Automating+Threat+Detection;Learning+Cyber+Day+by+Day&center=true&width=500&height=30">
+</p>
 
 ---
 
-### 💼 Ask Me About
-`Cyber Threat Detection` • `Incident Response` • `Linux Monitoring` • `Python Projects` • `Open Source`
+### 🧠 About Me
+
+- 🎓 6th semester IT Student with strong focus on **Cybersecurity & Artificial Intelligence**  
+- 💻 Currently working on: `Phishing Detection`, `SIEM Simulation`, and `AI Chatbots for UMKM`
+- ✍️ I share my growth on Instagram & GitHub — always building, always learning!
+- 🔭 Exploring ML-powered security tools using Python & threat intel platforms like MISP
 
 ---
 
-### 📲 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidanmahfudz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zaanmhfdz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidanmahfudz26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourname.vercel.app)
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages: Python | JavaScript | Bash  
+⚙️ Tools: Wazuh | Suricata | Kali Linux | ELK Stack  
+🧠 AI/ML: scikit-learn | OpenAI API | pandas | NLTK  
+🕸️ Web: HTML | Tailwind | Flask | PHP
+```
 
 ---
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0269A4?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-FF5733?style=for-the-badge&logoColor=white)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidanmahfudz&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanmahfudz&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📂 Notable Projects
 
-![ZaanmaVerse GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+- 🛡️ [Phishing Detector](https://github.com/zaidanmahfudz/phishing-detector)  
+  `ML-powered phishing detection system using URL & email analysis`
+
+- 🧠 [UMKM AI Chatbot](https://github.com/zaidanmahfudz/umkm-chatbot)  
+  `Simple chatbot for small business with TTS and product promotion`
+
+- 🚨 [SIEM Simulation Lab](https://github.com/zaidanmahfudz/siem-lab)  
+  `Multi-VM setup using Wazuh + Suricata + ELK for threat detection`
 
 ---
 
-### 🧠 Quote that Keeps Me Going
-> "Cybersecurity is not just about defending machines, it's about defending people."  
-> — Unknown
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/zaidanmahfudz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-zaidanmahfudz-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:zaidanmahfudz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/zaidanmahfudz">
+    <img src="https://img.shields.io/badge/GitHub-ZaidanMahfudz-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidanmahfudz&label=Profile+Views&color=blue&style=flat" />
+</p>
