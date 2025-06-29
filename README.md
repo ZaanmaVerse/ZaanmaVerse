@@ -12,7 +12,7 @@
 - 🎓 IT Student (6th semester) specializing in **Cybersecurity & AI**
 - 🧪 Passionate about turning data into security insights using ML
 - 🔐 Love building tools for **phishing detection**, **SIEM setup**, and **threat simulation**
-- 🌱 Currently learning advanced **ML-based threat detection**
+- 🌱 Currently learning advanced **ML-based threat detection**, and **AI Chatbot Integration**
 
 ---
 
