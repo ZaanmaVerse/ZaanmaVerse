@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanmahfudz&layout=compact&theme=radical&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaanmaVerse&layout=compact&theme=radical&langs_count=8" height="150"/>
 </div>
 
 ---
