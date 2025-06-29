@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff">Zaidan Mahfudz Mahfudz Azzam Saidi</span></h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff">Zaidan</span></h1>
 <h3 align="center">🛡️ Cybersecurity Enthusiast & 💻 AI Engineer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
