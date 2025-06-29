@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Gmail-zaidanmahfudz-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://zaanmhfdz.vercel.app">
-    <img src="https://img.shields.io/badge/GitHub-ZaidanMahfudz-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Vercel-ZaidanMahfudz-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
