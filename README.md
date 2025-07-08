@@ -19,7 +19,7 @@
 ## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,bash,html,css,tailwind,flask,nodejs,php" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,burpsuite,pytorch,js,bash,html,css,tailwind,flask,nodejs,php" /><br><br>
   <img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,docker" />
 </div>
 
