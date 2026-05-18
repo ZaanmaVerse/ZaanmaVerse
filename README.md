@@ -84,7 +84,9 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 </p>
 
 <p align="center">
-  <img src="https://tryhackme.com/Zaanmatho/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=678a82403efb6ba7b545bf9a" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/Zaanmatho/badges/advent-of-cyber-2025" target="_blank">
+    <img src="https://tryhackme.com/img/badges/adventofcyber2025.svg" height="120" alt="Advent of Cyber 2025 Badge"/>
+  </a>
 </p>
 
 ---
