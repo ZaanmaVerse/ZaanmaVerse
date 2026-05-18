@@ -76,5 +76,4 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 </p>
 
 ---
-
-⚡ Thank you for visiting my profile ⚡
+Thank you for visiting my profile! ⚡
