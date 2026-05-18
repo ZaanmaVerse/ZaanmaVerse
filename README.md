@@ -27,7 +27,7 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 
 <p>
   <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security%20Associate-blue?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Active%20Learner-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EAGT24OIOY.pdf%20Learner-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/COMPFEST-CTF%20Participant-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
