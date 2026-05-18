@@ -36,7 +36,7 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 ### 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,kali,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,bash,shell,linux,windows,kali,docker,git,github,vscode" />
 </p>
 
 <p align="center">
