@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Hello, I'm **Zaidan Mahfudz Azzam**, an IT student passionate about **Cybersecurity**, **SOC Operations**, **Threat Detection**, and **AI Security Projects**.
+Hello, I'm **Zaidan Mahfudz Azzam Saidi**, an IT student passionate about **Cybersecurity**, **SOC Operations**, **Threat Detection**, and **AI Security Projects**.
 
 I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challenges, and continuously improving my cybersecurity skills.
 
@@ -36,20 +36,19 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 ### 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,bash,linux,kali,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,kali,docker,git,github,vscode" />
 </p>
 
 <p align="center">
-  Wazuh • Suricata • ELK Stack • Wireshark • Burp Suite • Nmap
+  Wazuh • Suricata • Wireshark • Burp Suite • Nmap
 </p>
 
 ---
 
 ### 🚀 Projects
 
-- 🛡️ SIEM Integration using Wazuh + Suricata + ELK
+- 🛡️ SIEM Integration using Wazuh + Suricata
 - 🎣 AI Phishing Detection
-- 🤖 AI Chatbot Projects
 - 📊 Cyber Risk Assessment Tool
 
 ---
@@ -73,7 +72,7 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
     <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 
-  <a href="https://tryhackme.com/p/USERNAME_KAMU" target="_blank">
+  <a href="https://tryhackme.com/p/Zaanmatho" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Visit%20Profile-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
   </a>
 </p>
