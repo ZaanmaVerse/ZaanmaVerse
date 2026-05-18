@@ -1,133 +1,85 @@
-<h1 align="center">Hi there 👋 I'm <span style="color:#00ffff">Zaidan Mahfudz Azzam</span></h1>
-<h3 align="center">🛡️ Cybersecurity Enthusiast | 🔍 SOC & SIEM Learner | 💻 AI & Security Projects</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=🛡️+ZAIDAN+MAHFUDZ+AZZAM+🛡️;CYBERSECURITY+ENTHUSIAST;SOC+%7C+SIEM+%7C+AI+SECURITY;CTF+PLAYER+%7C+LIFELONG+LEARNER" alt="Header">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=750&height=45&lines=Cybersecurity+Student+from+Indonesia;Building+SIEM+%26+Threat+Detection+Projects;Exploring+AI+for+Security+Solutions;CTF+Player+%7C+Lifelong+Learner;Learning+Something+New+Every+Day" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Matrix">
 </p>
 
 ---
 
-# 🧠 About Me
+### 👨‍💻 About Me
 
-🎓 Information Technology Student focused on **Cybersecurity, SIEM, AI, and Risk Assessment**
+Hello, I'm **Zaidan Mahfudz Azzam**, an IT student passionate about **Cybersecurity**, **SOC Operations**, **Threat Detection**, and **AI Security Projects**.
 
-🔐 Interested in:
-- Security Operations Center (SOC)
-- Threat Detection & Monitoring
-- Vulnerability Assessment (VA)
-- Cyber Risk Assessment
-- Phishing Detection & Awareness
-- AI-based Security Solutions
-
-🛠️ Currently building and learning:
-- SIEM Integration using **Wazuh + Suricata + ELK**
-- AI Chatbot Projects
-- Phishing Detection Systems
-- Security Monitoring Lab using Virtual Machines
-
-🏆 Experience:
-- Participated in **CTF competitions**, including COMPFEST
-- Internship exposure in cybersecurity awareness & security operations support
-- Installed and configured Wazuh agents for company devices
-- Created vulnerability assessment reports with remediation recommendations
-
-🌱 Currently improving:
-- Python Programming
-- Threat Analysis
-- Cloud & Networking Fundamentals
-- English Communication Skills
+I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challenges, and continuously improving my cybersecurity skills.
 
 ---
 
-# ⚒️ Tech Stack
+### 🎓 Education
 
-<div align="center">
-
-### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=python,js,php,bash,html,css,flask,nodejs,git,github,vscode" />
-
-### 🛡️ Cybersecurity & Tools
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,ubuntu" />
-
-</div>
+- **Information Technology Student**  
+  Focused on Cybersecurity, AI, Networking, and Security Monitoring.
 
 ---
 
-# 🔐 Cybersecurity Tools & Platforms
+### 📜 Certifications
 
-<p align="center">
-  🛠️ Wazuh • Suricata • ELK Stack • Wireshark • Burp Suite • Nmap • VirtualBox
+<p>
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security%20Associate-blue?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Active%20Learner-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPFEST-CTF%20Participant-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡️ SIEM Integration & Threat Detection
-- Built a monitoring lab using **Wazuh + Suricata + ELK Stack**
-- Simulated attacks using Kali Linux
-- Performed log monitoring and threat detection analysis
-
-## 🎣 AI Phishing Detection Project
-- Developed phishing URL detection system
-- Exploring AI/ML integration for phishing classification
-
-## 🤖 AI Chatbot Projects
-- Food recommendation chatbot based on location & preferences
-- Customer service chatbot for UMKM/business support
-
-## 📊 Cyber Risk Assessment Tool
-- Risk assessment project based on **NIST 800-30 Rev.1**
-- Focused on identifying threats, vulnerabilities, and mitigation strategies
-
----
-
-# 📚 Certifications
-
-- ISO/IEC 27001 Information Security Associate
-- ISC2 Certified in Cybersecurity (CC)
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaanmaVerse&show_icons=true&theme=radical&rank_icon=github" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ZaanmaVerse&theme=radical" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaanmaVerse&layout=compact&theme=radical&langs_count=8" height="150"/>
-</div>
-
----
-
-# 🌐 Connect With Me
+### 🛠️ Tools I Use
 
 <p align="center">
-  <a href="mailto:zaidanmahfudz26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,bash,linux,kali,docker,git,github,vscode" />
+</p>
+
+<p align="center">
+  Wazuh • Suricata • ELK Stack • Wireshark • Burp Suite • Nmap
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🛡️ SIEM Integration using Wazuh + Suricata + ELK
+- 🎣 AI Phishing Detection
+- 🤖 AI Chatbot Projects
+- 📊 Cyber Risk Assessment Tool
+
+---
+
+### 🔥 Keep Learning 🔥
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=5000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Learning+Cybersecurity+Every+Day+🚀;Building+Security+Projects+🛡️;Future+SOC+Analyst+⚡;Keep+Learning+%26+Keep+Building+🔥" alt="Animation">
+</p>
+
+---
+
+### 🌐 Contact Me
+
+<p align="center">
+  <a href="mailto:zaidanmahfudz26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 
-  <a href="https://linkedin.com/in/zaidanmahfudz">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/zaidanmahfudz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zaidan%20Mahfudz-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 
-  <a href="https://instagram.com/zaanmhfdz">
-    <img src="https://img.shields.io/badge/Instagram-@zaanmhfdz-purple?style=for-the-badge&logo=instagram" />
-  </a>
-
-  <a href="https://zaidanmhfdz.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  <a href="https://tryhackme.com/p/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Visit%20Profile-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZaanmaVerse&label=Profile+Views&color=00ffff&style=flat" />
+  ⚡ Thank you for visiting my profile ⚡
 </p>
-
----
-
-<h3 align="center">⚡ “Keep Learning, Keep Building, Keep Securing.” ⚡</h3>
