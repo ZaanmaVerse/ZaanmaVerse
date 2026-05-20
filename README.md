@@ -10,9 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Hello, I'm **Zaidan Mahfudz Azzam Saidi**, an IT student passionate about **Cybersecurity**, **SOC Operations**, **Threat Detection**, and **AI Security Projects**.
-
-I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challenges, and continuously improving my cybersecurity skills.
+Hello, I'm **Zaidan Mahfudz Azzam Saidi**, an IT student passionate about **Cybersecurity**, **SOC Operations**, **Threat Detection**, **Ethical Hacking**, and **AI Security Projects**. I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challenges, and continuously improving my cybersecurity skills.
 
 ---
 
@@ -23,12 +21,13 @@ I enjoy building hands-on labs, exploring SIEM technologies, solving CTF challen
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Learning
 
-<p>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security%20Associate-blue?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Active%20Learner-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/COMPFEST-CTF%20Participant-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security%20Associate-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Active%20Learner-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPFEST-CTF%20Participant-FF3C00?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
