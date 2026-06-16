@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology student specializing in Cybersecurity with a strong interest in Security Operations Center (SOC) activities and Defensive Security. My experience includes SIEM monitoring, security event analysis, vulnerability assessment, endpoint security monitoring, and cybersecurity awareness programs. I enjoy building hands-on security labs, investigating security incidents, and continuously improving my skills in threat detection, incident response, and security monitoring through practical projects, CTF challenges, and continuous learning.
+Final-year Cybersecurity student with hands-on experience in SIEM monitoring, vulnerability assessment, and security operations. Interested in SOC, threat detection, incident analysis, and information security.
 
 ---
 
@@ -51,10 +51,8 @@ Everything I'm building is documented here:
 
 ---
 
-### 🔥 Keep Learning 🔥
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=5000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Learning+Cybersecurity+Every+Day+🚀;Building+Security+Projects+🛡️;Future+SOC+Analyst+⚡;Keep+Learning+%26+Keep+Building+🔥" alt="Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=5000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Cybersecurity+Projects+🛡️;SOC+Operations+%7C+Threat+Detection+⚡;Vulnerability+Assessment+%7C+Security+Monitoring+🔍;Always+Learning+%26+Improving+🚀" alt="Animation">
 </p>
 
 ---
