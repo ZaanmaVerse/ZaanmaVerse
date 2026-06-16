@@ -57,7 +57,7 @@ Everything I'm building is documented here:
 
 ---
 
-### 🌐 Contact Me
+### 🌐 Connect & Explore
 
 <p align="center">
   <a href="mailto:zaidanmahfudz26@gmail.com" target="_blank">
