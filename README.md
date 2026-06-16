@@ -16,8 +16,8 @@ Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology stude
 
 ### 🎓 Education
 
-- **Information Technology Student at President University**  
-  Focused on Cybersecurity, AI, Networking, and Security Monitoring.
+- **Bachelor of Information Technology (Cybersecurity), President University**  
+  Focused on Cybersecurity, Security Operations, Information Security, Network Security, and Risk Management.
 
 ---
 
@@ -46,9 +46,9 @@ Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology stude
 
 ### 🚀 Projects
 
-- 🛡️ SIEM Integration using Wazuh + Suricata
-- 🎣 AI Phishing Detection
-- 📊 Cyber Risk Assessment Tool
+Explore my cybersecurity projects, write-ups, labs, and learning journey:
+
+🔗 GitHub Portfolio: https://github.com/ZaanmaVerse/Portfolio-Cybersecurity
 
 ---
 
