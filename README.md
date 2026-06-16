@@ -44,11 +44,10 @@ Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology stude
 
 ---
 
-### 🚀 Projects
+### 📁 Portfolio
 
-Explore my cybersecurity projects, write-ups, labs, and learning journey:
-
-🔗 GitHub Portfolio: https://github.com/ZaanmaVerse/Portfolio-Cybersecurity
+Everything I'm building is documented here:
+→ [cybersecurity-portfolio](https://github.com/ZaanmaVerse/Portfolio-Cybersecurity)
 
 ---
 
