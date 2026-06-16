@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=🛡️+ZAIDAN+MAHFUDZ+AZZAM+🛡️;CYBERSECURITY+ENTHUSIAST;SOC+%7C+SIEM+%7C+AI+SECURITY;CTF+PLAYER+%7C+LIFELONG+LEARNER" alt="Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🛡️+ZAIDAN+MAHFUDZ+AZZAM+SAIDI+🛡️;FINAL-YEAR+CYBERSECURITY+STUDENT;ASPIRING+SOC+ANALYST+%26+BLUE+TEAMER;SIEM+MONITORING+%7C+THREAT+DETECTION;VULNERABILITY+ASSESSMENT+%7C+INCIDENT+RESPONSE;INFORMATION+SECURITY+%7C+ISO+27001" alt="Header">
 </h1>
 
 <p align="center">
