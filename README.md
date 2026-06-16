@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology student specializing in Cybersecurity. I have hands-on experience in Security Operations, SIEM Monitoring, Vulnerability Assessment, Security Documentation, and Security Awareness initiatives through internship and project-based activities. Passionate about Blue Team operations, Threat Detection, Incident Analysis, and Information Security Governance, I continuously build practical cybersecurity projects, explore emerging security technologies, and develop skills through labs, CTF challenges, and real-world security scenarios.
+Hello, I'm Zaidan Mahfudz Azzam Saidi, a final-year Information Technology student specializing in Cybersecurity with a strong interest in Security Operations Center (SOC) activities and Defensive Security. My experience includes SIEM monitoring, security event analysis, vulnerability assessment, endpoint security monitoring, and cybersecurity awareness programs. I enjoy building hands-on security labs, investigating security incidents, and continuously improving my skills in threat detection, incident response, and security monitoring through practical projects, CTF challenges, and continuous learning.
 
 ---
 
