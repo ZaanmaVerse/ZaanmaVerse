@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmaDM3bmhwOG1penM0YnpweXcxc2RnYWZiMzV1cG0wanNlbzFpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs83M0w7H0pP2Vj2/giphy.gif" width="600" alt="Matrix">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmaDM3bmhwOG1penM0YnpweXcxc2RnYWZiMzV1cG0wanNlbzFpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs83M0w7H0pP2Vj2/giphy.gif" width="450" alt="Matrix">
 </p>
 
 ---
